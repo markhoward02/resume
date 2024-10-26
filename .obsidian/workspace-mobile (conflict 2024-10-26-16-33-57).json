@@ -156,21 +156,15 @@
   },
   "active": "8d4150d16f43a118",
   "lastOpenFiles": [
-    "yarn.lock",
-    "template.html",
-    "styles.css",
-    "resume.md",
-    "README.md",
-    "package.json",
-    "node_modules/pandoc/README",
-    "node_modules/pandoc/pandoc.js",
-    "node_modules/pandoc/package.json",
-    "node_modules/pandoc/NOTICE",
-    "node_modules/pandoc/Makefile",
-    "node_modules/pandoc/LICENSE",
-    "node_modules/pandoc/CHANGELOG",
+    "template (conflict 2024-10-26-16-33-52).html",
     "resume (conflict 2024-10-26-16-33-52).md",
     "README (conflict 2024-10-26-16-33-52).md",
-    "/README.md"
+    "package (conflict 2024-10-26-16-33-52).json",
+    "/template.html",
+    "/package.json",
+    "/combine.sh",
+    "/README.md",
+    "README.md",
+    "resume.md"
   ]
 }

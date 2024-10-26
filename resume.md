@@ -1,14 +1,15 @@
-# Senior Software Engineer
+# Mark Howard
+### Senior Software Engineer
 
 ## Summary
 A seasoned software engineer with over 20 years of experience in full-stack development and data analysis. Proven ability to architect, design, and implement complex software solutions. Proficient in a wide range of technologies, including Node.js, .NET, React, TypeScript, C#, Angular, React Native, Ionic, Tailwind CSS, Remix, SQL, MongoDB, and Tableau. Adept at collaborating with cross-functional teams to deliver high-quality, scalable, and maintainable software products.
 
-## Technical Skills
+### Technical Skills
 - **Programming Languages:** JavaScript, TypeScript, C#
 - **Frameworks and Libraries:** Node.js, .NET, React, Angular, React Native, Ionic, Tailwind CSS, Remix
 - **Databases:** SQL, MongoDB
 - **Data Visualization:** Tableau
-- **Cloud Platforms:** AWS, Azure (Optional, if applicable)
+- **Cloud Platforms:** Azure
 - **Version Control:** Git
 
 ## Professional Experience

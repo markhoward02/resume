@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "resume.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "resume"
+              "title": "README"
             }
           }
         ]
@@ -172,11 +172,6 @@
   "active": "fcfe92cb1d9b3550",
   "lastOpenFiles": [
     "resume.md",
-    "README (conflict 2024-10-26-16-33-52).md",
-    "resume.md",
-    "template (conflict 2024-10-26-16-33-52).html",
-    "package (conflict 2024-10-26-16-33-52).json",
-    "combine.sh",
     "README.md"
   ]
 }
