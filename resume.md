@@ -6,7 +6,7 @@ A seasoned software engineer with over 20 years of experience in full-stack deve
 
 ### Technical Skills
 - **Programming Languages:** JavaScript, TypeScript, C#
-- **Frameworks and Libraries:** Node.js, .NET, React, Angular, React Native, Ionic, Tailwind CSS, Remix, Bootstrap
+- **Frameworks and Libraries:** Node.js, .NET, React, Angular, React Native, Ionic, Tailwind CSS, Remix, Bootstra
 - **Databases:** SQL, MongoDB
 - **Data Visualization:** Tableau
 - **Cloud Platforms:** Azure
@@ -41,13 +41,3 @@ A seasoned software engineer with over 20 years of experience in full-stack deve
 - Started as a junior engineer, quickly gaining proficiency in software development.
 - Contributed to team projects, learning from experienced developers.
 - Acquired foundational skills in programming languages and technologies.
-
-## Education
-**Bachelor of Science in Computer Science**
-University Name | City, State | Year
-
-## Note:
-- Customize the resume to highlight specific projects, achievements, and skills relevant to the job you're applying for.
-- Quantify your accomplishments whenever possible (e.g., "Increased system performance by 20%").
-- Tailor your resume to the specific job requirements and company culture.
-- Proofread carefully to ensure there are no errors in grammar or spelling.
