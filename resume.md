@@ -1,6 +1,6 @@
 # Senior Software Engineer
 
-## Summaries
+## Summary
 A seasoned software engineer with over 20 years of experience in full-stack development and data analysis. Proven ability to architect, design, and implement complex software solutions. Proficient in a wide range of technologies, including Node.js, .NET, React, TypeScript, C#, Angular, React Native, Ionic, Tailwind CSS, Remix, SQL, MongoDB, and Tableau. Adept at collaborating with cross-functional teams to deliver high-quality, scalable, and maintainable software products.
 
 ## Technical Skills
