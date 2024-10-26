@@ -6,7 +6,7 @@ A seasoned software engineer with over 20 years of experience in full-stack deve
 
 ### Technical Skills
 - **Programming Languages:** JavaScript, TypeScript, C#
-- **Frameworks and Libraries:** Node.js, .NET, React, Angular, React Native, Ionic, Tailwind CSS, Remix
+- **Frameworks and Libraries:** Node.js, .NET, React, Angular, React Native, Ionic, Tailwind CSS, Remix, Bootstrap
 - **Databases:** SQL, MongoDB
 - **Data Visualization:** Tableau
 - **Cloud Platforms:** Azure
