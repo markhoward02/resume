@@ -1,0 +1,11 @@
+{
+  "name": "my-resume",
+  "version": "1.0.0",
+  "description": "My personal resume",
+  "scripts": {
+    "build": "pandoc resume.md -o resume.html --template template.html"
+  },
+  "dependencies": {
+    "pandoc": "^2.19.2"
+  }
+}
