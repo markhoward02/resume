@@ -15,11 +15,12 @@ A seasoned software engineer with over 20 years of experience in full-stack deve
 ## Professional Experience
 
 ### Senior Software Engineer
-**Product Startup Company** | City, State | 2018 - Present
+**RippleWorx, Inc.** | Huntsville, AL (Remote) | 2018 - Present
 - Led the development of a groundbreaking SaaS platform, architecting the entire backend and frontend.
 - Implemented a robust API using Node.js and TypeScript, ensuring high performance and scalability.
 - Built a responsive and intuitive user interface with React and Tailwind CSS.
 - Leveraged MongoDB for flexible data storage and retrieval.
+- 
 - Utilized Tableau to create insightful data visualizations for business decision-making.
 
 ### Software Engineer
