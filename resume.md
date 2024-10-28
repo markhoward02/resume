@@ -1,7 +1,7 @@
 # MARK H. HOWARD II
 
 Canton, GA  
-mark.howard02@outlook.com  
+mark.howard02@outlook.com
 
 ---
 
@@ -19,26 +19,26 @@ mark.howard02@outlook.com
 
 ## Professional Experience
 
-### RippleWorx / Bespoke Technologies  
+### RippleWorx / Bespoke Technologies
+
 **Huntsville, AL (Remote)**  
 **Senior Software Engineer / Technical Product Lead**  
 **May 2018 – Present**
 
 RippleWorx is a SaaS solution in the human resources sector, offering a flexible survey tool, tasks module, shared calendar, and training plans for monitoring employee satisfaction and skillset analysis.
 
-- Transformed initial prototypes into a production-ready, scalable solution on Azure with a sharded Mongo Global Cluster.
+- Transformed initial prototypes into a production-ready, scalable, regionally available solution running on Kubernetes.
 - Led the team in sprint planning, task development, documentation, code reviews, and release management.
 - Championed design patterns, clean code, and test-driven development to ensure high-quality, resilient features.
-- Built and maintained an Azure DevOps CI/CD pipeline, automating builds from code check-in through production release.
-- Developed automated UI testing using Azure DevOps, Selenium, and SauceLabs.
-- Designed a SQL Data Warehouse and ETL processes to move data from Mongo to a star-schema model, utilizing message queues and incremental refresh.
-- Embedded Tableau for report viewing and authoring, automated Tableau setup and reporting with Python.
-- Created a SQL Data Warehouse and ETL processes for 911 call data, supporting law enforcement analysis.
-- Integrated with Office 365 Power Automate to enable extended functionality with other services.
+- Implemented a DevOps stategy for automating builds from code check-in all the way through production releases.
+- Configured and monitored end-to-end tests to ensure high quality throughout the SDLC.
+- Designed a SQL Data Warehouse and ETL processes to move data from Mongo to a star-schema model, utilizing message queues achieving near-real-time reporting.
+- Embedded Tableau for report viewing and authoring, developed scripts to automate setup and configuration.
 
 ---
 
-### Allstar Financial Group, Inc.  
+### Allstar Financial Group, Inc.
+
 **Atlanta, GA**  
 **Senior Software Engineer**  
 **July 2014 – May 2018**
@@ -53,7 +53,8 @@ ALLSTAR is a wholesale insurance company offering various products through speci
 
 ---
 
-### Elexient LLC  
+### Elexient LLC
+
 **Canton, GA**  
 **Owner/President - Senior Software Engineer**  
 **January 2005 – July 2014**
@@ -67,7 +68,8 @@ Elexient LLC was a custom software development company serving clients across va
 
 ---
 
-### Envision Communications, Inc.  
+### Envision Communications, Inc.
+
 **Atlanta, GA**  
 **Junior Developer**  
 **January 2004 – May 2007**
