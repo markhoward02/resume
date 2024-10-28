@@ -46,9 +46,8 @@ RippleWorx is a SaaS solution in the human resources sector, offering a flexible
 ALLSTAR is a wholesale insurance company offering various products through specialized divisions.
 
 - Built a sales data warehouse to provide near-real-time KPIs across dimensions like producer, product type, and carrier.
-- Developed custom solutions to fill gaps in off-the-shelf Agency Management software, adding automation for unique business needs.
+- Developed custom solutions to fill gaps in various off-the-shelf Agency Management software products and adding automation for unique business needs.
 - Automated complex reporting to carrier partners and state insurance departments.
-- Created file and folder synchronization tools to integrate with existing document storage, easing user adoption.
 - Built a central .NET codebase with feature toggles and configuration options to support diverse department needs.
 - Established DevOps pipelines using TeamCity for streamlined releases.
 
@@ -75,15 +74,15 @@ Elexient LLC was a custom software development company serving clients across va
 
 Envision is a pharmaceutical marketing company.
 
-- Sole developer on a complex event planning system, expanding it significantly.
-- Worked with a Project Manager to translate requirements into functional designs.
-- Set up and maintained in-house web servers and implemented source control.
+- Developer on a complex event planning system, expanding it significantly.
+- Worked with a Technical Lead to translate requirements into functional and technical specifications.
+- Contributed to configuration and maintenance of on-premise database and web servers. Implemented source control.
 
 ---
 
 ## Side Projects & Other Interests
 
-- **Grocery Board:** Co-designed an app with my wife for shared shopping lists and meal planning, available on iOS, Android, Windows, and as a PWA. Built with React, Ionic, Capacitor, C# .NET Core, SignalR, WordPress, and Power BI.
+- **Grocery Board:** Developed an app with my wife for shared shopping lists and meal planning, available on iOS, Android, Windows, and as a PWA. Built with React, Ionic, Capacitor, C# .NET Core, SignalR, WordPress, and Power BI.
 - **IoT, Raspberry Pi, Arduino:** Enthusiastic about tinkering with Raspberry Pi, Arduino, and NanoFramework for various projects.
 - **Contest:** Won a Microsoft app contest in 2015 with the app TimesheetAnywhere (now discontinued).
 
