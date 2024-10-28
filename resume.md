@@ -19,9 +19,9 @@ mark.howard02@outlook.com
 
 ## Professional Experience
 
-### RippleWorx / Bespoke Technologies  
+### RippleWorx, Inc. / Bespoke Technologies  
 **Huntsville, AL (Remote)**  
-**Senior Software Engineer / Technical Product Lead**  
+**Senior Software Engineer / Technical Product Lead / Architect**  
 **May 2018 – Present**
 
 RippleWorx is a SaaS solution in the human resources sector, offering a flexible survey tool, tasks module, shared calendar, and training plans for monitoring employee satisfaction and skillset analysis.
@@ -30,11 +30,8 @@ RippleWorx is a SaaS solution in the human resources sector, offering a flexible
 - Led the team in sprint planning, task development, documentation, code reviews, and release management.
 - Championed design patterns, clean code, and test-driven development to ensure high-quality, resilient features.
 - Built and maintained an Azure DevOps CI/CD pipeline, automating builds from code check-in through production release.
-- Developed automated UI testing using Azure DevOps, Selenium, and SauceLabs.
-- Designed a SQL Data Warehouse and ETL processes to move data from Mongo to a star-schema model, utilizing message queues and incremental refresh.
-- Embedded Tableau for report viewing and authoring, automated Tableau setup and reporting with Python.
-- Created a SQL Data Warehouse and ETL processes for 911 call data, supporting law enforcement analysis.
-- Integrated with Office 365 Power Automate to enable extended functionality with other services.
+- - Designed a SQL Data Warehouse and ETL processes to move data from Mongo to a star-schema model, utilizing message queues and incremental refresh.
+- Embedded analytics via Tableau for both viewing and authoring.  Developed and maintained scripts to automate configuration and setup of Tableau.
 
 ---
 
