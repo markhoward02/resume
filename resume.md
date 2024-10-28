@@ -33,8 +33,6 @@ RippleWorx is a SaaS solution in the human resources sector, offering a flexible
 - Developed automated UI testing using Azure DevOps, Selenium, and SauceLabs.
 - Designed a SQL Data Warehouse and ETL processes to move data from Mongo to a star-schema model, utilizing message queues and incremental refresh.
 - Embedded Tableau for report viewing and authoring, automated Tableau setup and reporting with Python.
-- Created a SQL Data Warehouse and ETL processes for 911 call data, supporting law enforcement analysis.
-- Integrated with Office 365 Power Automate to enable extended functionality with other services.
 
 **Environment:** Node, Express, TypeScript, React, React Native, MobX, C#, SQL Server, Tableau, Python, Azure Data Factory.
 
@@ -81,17 +79,17 @@ Elexient LLC was a custom software development company serving clients across va
 
 Envision is a pharmaceutical marketing company.
 
-- Sole developer on a complex event planning system, expanding it significantly.
-- Worked with a Project Manager to translate requirements into functional designs.
-- Set up and maintained in-house web servers and implemented source control.
+- Developer on a complex event planning system, expanding it significantly.
+- Worked with the Technical Leas to translate requirements into functional and technical specs. 
+- Assisted in configuration and maintenance of on-premise web and database servers and implemented source control.
 
-**Environment:** C#, VB.NET, HTML, CSS, JavaScript, SQL Server, SSRS, IIS.
+**Environment:** C#, HTML, CSS, JavaScript, SQL Server, SSRS, IIS.
 
 ---
 
 ## Side Projects & Other Interests
 
-- **Grocery Board:** Co-designed an app with my wife for shared shopping lists and meal planning, available on iOS, Android, Windows, and as a PWA. Built with React, Ionic, Capacitor, C# .NET Core, SignalR, WordPress, and Power BI.
+- **Grocery Board:** Developed an app for shared shopping lists and meal planning, available on iOS, Android, Windows, and as a PWA. Built with React, Ionic, Capacitor, C# .NET Core, SignalR. Site is WordPress, CRM analytics with Power BI.
 - **IoT, Raspberry Pi, Arduino:** Enthusiastic about tinkering with Raspberry Pi, Arduino, and NanoFramework for various projects.
 - **Contest:** Won a Microsoft app contest in 2015 with the app TimesheetAnywhere (now discontinued).
 
