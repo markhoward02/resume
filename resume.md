@@ -1,19 +1,19 @@
 # MARK H. HOWARD II
-  
-Canton, GA 
+
+Canton, GA  
 mark.howard02@outlook.com  
 
 ---
 
 ## Professional Summary
 
-- Excellent communication, customer service, and requirement gathering skills.
-- Solid development experience with .NET Core, Node, React, and Angular.
-- Constant student of architectural design patterns for implementing extensible and maintainable systems.
-- A fan of TDD, DDD, SOLID, Clean Code, Messaging, and Microservices.
-- Excellent front-end development skills for Web and Mobile (PWA & React Native).
-- Competent in data warehousing concepts from design to implementation, including complex analytical reports.
-- Able to grasp new and complex concepts quickly.
+- Skilled in communication, customer service, and requirement gathering.
+- Extensive experience with .NET Core, Node, React, and Angular for software development.
+- Continually studies architectural design patterns for building scalable, maintainable systems.
+- Enthusiastic about TDD, DDD, SOLID principles, Clean Code, Messaging, and Microservices.
+- Strong front-end development abilities for Web and Mobile (PWA & React Native).
+- Proficient in data warehousing, from design to implementation, including developing analytical reports.
+- Quick to understand and apply new, complex concepts.
 
 ---
 
@@ -24,17 +24,17 @@ mark.howard02@outlook.com
 **Senior Software Engineer / Technical Product Lead**  
 **May 2018 – Present**
 
-RippleWorx is a SaaS solution in the human resources space, offering a flexible surveying tool, a tasks module, a shared calendar, and training plans to monitor employee satisfaction and skillsets analysis.
+RippleWorx is a SaaS solution in the human resources sector, offering a flexible survey tool, tasks module, shared calendar, and training plans for monitoring employee satisfaction and skillset analysis.
 
-- Modernized prototypes into a production-ready, scalable solution on Azure with a sharded Mongo Global Cluster.
-- Led team in sprint planning, development tasks, documentation, code reviews, and release management.
-- Advocated design patterns, clean code, and test-driven development for resilient production features.
-- Implemented Azure DevOps build solutions, automating builds from code check-in to production.
-- Developed automated UI testing with Azure DevOps, Selenium, and SauceLabs.
-- Designed SQL Data Warehouse and ETL jobs for Mongo data with message queues, webhooks, and incremental refresh.
-- Embedded Tableau reporting, developed reports, and automated Tableau site creation with Python.
-- Developed a SQL Data Warehouse and ETL for 911 call dispatch data, aiding police analysis.
-- Integrated Office 365’s Power Automate for enhanced cross-service functionality.
+- Transformed initial prototypes into a production-ready, scalable solution on Azure with a sharded Mongo Global Cluster.
+- Led the team in sprint planning, task development, documentation, code reviews, and release management.
+- Championed design patterns, clean code, and test-driven development to ensure high-quality, resilient features.
+- Built and maintained an Azure DevOps CI/CD pipeline, automating builds from code check-in through production release.
+- Developed automated UI testing using Azure DevOps, Selenium, and SauceLabs.
+- Designed a SQL Data Warehouse and ETL processes to move data from Mongo to a star-schema model, utilizing message queues and incremental refresh.
+- Embedded Tableau for report viewing and authoring, automated Tableau setup and reporting with Python.
+- Created a SQL Data Warehouse and ETL processes for 911 call data, supporting law enforcement analysis.
+- Integrated with Office 365 Power Automate to enable extended functionality with other services.
 
 **Environment:** Node, Express, TypeScript, React, React Native, MobX, C#, SQL Server, Tableau, Python, Azure Data Factory.
 
@@ -47,12 +47,12 @@ RippleWorx is a SaaS solution in the human resources space, offering a flexible 
 
 ALLSTAR is a wholesale insurance company offering various products through specialized divisions.
 
-- Implemented a sales data warehouse providing near-real-time KPIs by dimensions like producer, product type, and carrier.
-- Developed integrations with off-the-shelf Agency Management software, adding automation to their insurance pipeline.
-- Automated complex reporting requirements for carrier partners and state insurance departments.
-- Enabled file and folder synchronization with master records to leverage existing document-storage strategies.
-- Created a centralized .NET codebase with feature toggles and configuration options.
-- Developed DevOps release pipelines with TeamCity.
+- Built a sales data warehouse to provide near-real-time KPIs across dimensions like producer, product type, and carrier.
+- Developed custom solutions to fill gaps in off-the-shelf Agency Management software, adding automation for unique business needs.
+- Automated complex reporting to carrier partners and state insurance departments.
+- Created file and folder synchronization tools to integrate with existing document storage, easing user adoption.
+- Built a central .NET codebase with feature toggles and configuration options to support diverse department needs.
+- Established DevOps pipelines using TeamCity for streamlined releases.
 
 **Environment:** C#, Angular, MVC, Web API, SignalR, Entity Framework, TeamCity, SSIS, SQL, Tableau, RabbitMQ.
 
@@ -63,12 +63,12 @@ ALLSTAR is a wholesale insurance company offering various products through speci
 **Owner/President - Senior Software Engineer**  
 **January 2005 – July 2014**
 
-Elexient LLC was a custom software development company with various clients.
+Elexient LLC was a custom software development company serving clients across various industries.
 
-- Gathered requirements in an iterative approach with stakeholders and end-users.
-- Built a productive team, expanded shared code libraries, and developed end-to-end systems across multiple sectors.
-- Created numerous brochure websites with a custom CMS for client content management.
-- Provided ongoing support and server maintenance on-site and in Azure.
+- Consulted with stakeholders to gather requirements and implement features in an iterative, user-focused process.
+- Built and led a team, expanded shared code libraries, and developed end-to-end systems across sectors including insurance, construction, and e-commerce.
+- Created numerous brochure websites with a custom CMS, allowing clients to manage their own content.
+- Provided ongoing application support and maintained servers both on-site and in Azure.
 
 **Environment:** C#, HTML, CSS, JavaScript, jQuery, SQL Server, IIS, Azure.
 
@@ -81,9 +81,9 @@ Elexient LLC was a custom software development company with various clients.
 
 Envision is a pharmaceutical marketing company.
 
-- Sole developer on a complex event planning system.
-- Collaborated with the Project Manager to turn requirements into functional screens.
-- Set up in-house web server and implemented source control.
+- Sole developer on a complex event planning system, expanding it significantly.
+- Worked with a Project Manager to translate requirements into functional designs.
+- Set up and maintained in-house web servers and implemented source control.
 
 **Environment:** C#, VB.NET, HTML, CSS, JavaScript, SQL Server, SSRS, IIS.
 
@@ -91,8 +91,8 @@ Envision is a pharmaceutical marketing company.
 
 ## Side Projects & Other Interests
 
-- **Grocery Board:** An app co-designed with my wife for shared shopping lists and meal planning, available on multiple platforms. Built with React, Ionic, Capacitor, C# .NET Core, SignalR, WordPress, and Power BI.
-- **IoT, Raspberry Pi, Arduino:** Passionate about tinkering with Raspberry Pi, Arduino, and NanoFramework.
-- **Contest:** Winner of a Microsoft app contest in 2015 with the app TimesheetAnywhere (now discontinued).
+- **Grocery Board:** Co-designed an app with my wife for shared shopping lists and meal planning, available on iOS, Android, Windows, and as a PWA. Built with React, Ionic, Capacitor, C# .NET Core, SignalR, WordPress, and Power BI.
+- **IoT, Raspberry Pi, Arduino:** Enthusiastic about tinkering with Raspberry Pi, Arduino, and NanoFramework for various projects.
+- **Contest:** Won a Microsoft app contest in 2015 with the app TimesheetAnywhere (now discontinued).
 
 ---
