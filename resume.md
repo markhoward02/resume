@@ -26,15 +26,13 @@ mark.howard02@outlook.com
 
 RippleWorx is a SaaS solution in the human resources sector, offering a flexible survey tool, tasks module, shared calendar, and training plans for monitoring employee sentiment and other various functions.
 
-- Transformed initial prototypes into a production-ready, scalable solution on Azure with a sharded Mongo Global Cluster.
+- Transformed initial prototypes into a production-ready, scalable, regionally available solution running on Kubernetes.
 - Led the team in sprint planning, task development, documentation, code reviews, and release management.
 - Championed design patterns, clean code, and test-driven development to ensure high-quality, resilient features.
-- Built and maintained an DevOps pipelines, automating builds from code check-in through production release.
-- Developed automated UI testing using Azure DevOps, Selenium, and SauceLabs.
-- Designed a SQL Data Warehouse and ETL processes to move data from Mongo to a star-schema model, utilizing message queues and incremental refresh.
-- Embedded Tableau for report viewing and authoring, automated Tableau setup and reporting with Python.
-- Created a SQL Data Warehouse and ETL processes for 911 call data, supporting law enforcement analysis.
-- Integrated with Office 365 Power Automate to enable extended functionality with other services.
+- Implemented a DevOps stategy for automating builds from code check-in all the way through production releases.
+- Configured and monitored end-to-end tests to ensure high quality throughout the SDLC.
+- Designed a SQL Data Warehouse and ETL processes to move data from Mongo to a star-schema model, utilizing message queues achieving near-real-time reporting.
+- Embedded analytics via Tableau for both viewing and authoring, developed scripts to automate configuration and setup.
 
 ---
 
@@ -76,7 +74,8 @@ Envision is a pharmaceutical marketing company.
 
 - Developer on a complex event planning system, expanding it significantly.
 - Worked with a Technical Lead to translate requirements into functional and technical specifications.
-- Contributed to configuration and maintenance of on-premise database and web servers. Implemented source control.
+- Contributed to configuration and maintenance of on-premise database and web servers. 
+- Implemented source control.
 
 ---
 
