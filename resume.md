@@ -85,4 +85,3 @@ Envision is a pharmaceutical marketing company.
 - **IoT, Raspberry Pi, Arduino:** Enthusiastic about tinkering with Raspberry Pi, Arduino, and NanoFramework for various projects.
 - **Contest:** Won a Microsoft app contest in 2015 with the app TimesheetAnywhere (now discontinued).
 
----
